@@ -16,6 +16,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\diiego\OneDrive\Documentos\Facultad\OO1_2022\ejercicio_2\src\test\java\ar\edu\unlp\info\oo1\objetos_uno\BalanzaTest.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -39,12 +40,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="ar.edu.unlp.info.oo1.ejercicio_3"/>
 			<item value="ar.edu.unlp.info.oo1.objetos_uno"/>
 		</list>
 		<list key="groupId">
 			<item value="ar.edu.unlp.info.oo1"/>
 		</list>
 		<list key="artifactId">
+			<item value="ejercicio_3"/>
 			<item value="objetos-uno"/>
 		</list>
 		<list key="projectNameTemplate">

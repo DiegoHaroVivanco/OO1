@@ -66,17 +66,12 @@ public class WallPostImpl implements WallPost {
 	@Override
 	public boolean isFeatured() {
 			
-		return this.featured ? true : false;
+		return this.featured;
 	}
 
 	@Override
 	public void toggleFeatured() {
-		if(this.featured) {
-			this.featured = false;
-		}else {
-			this.featured = true;
-		}
-		
+		this.featured = !this.featured;
 	}
 
 
