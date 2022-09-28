@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Documentos\ejercicio10-JobScheduler"/>
 			<item value="C:\Users\diiego\OneDrive\Documentos\Facultad\OO1_2022\ejercicio2"/>
 			<item value="C:\Users\diiego\OneDrive\Documentos\Facultad\OO1_2022\ejercicio1"/>
 		</list>
@@ -41,6 +42,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="ar.edu.unlp.info.oo1.ejercicio_10"/>
+			<item value="ar.edu.unlp.info.oo1.ejercicio_8"/>
 			<item value="ar.edu.unlp.info.oo1.ejercicio_6"/>
 			<item value="ar.edu.unlp.info.oo1.ejercicio_5"/>
 			<item value="ar.edu.unlp.info.oo1.ejercicio_4"/>
@@ -52,6 +55,8 @@
 			<item value="ar.edu.unlp.info.oo1"/>
 		</list>
 		<list key="artifactId">
+			<item value="ejercicio_10"/>
+			<item value="ejercicio_8"/>
 			<item value="ejercicio_6"/>
 			<item value="ejercicio_5"/>
 			<item value="ejercicio_4"/>
